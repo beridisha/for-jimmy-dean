@@ -1,2 +1,3 @@
 # for-jimmy-dean
-a repository for jimmy to earn his own amaze-balls hacktoberfest shirt.
+a repository for jimmy to earn his own amazing hacktoberfest shirt.
+
